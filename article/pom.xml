@@ -52,7 +52,7 @@
 		<slf4j.version>1.7.24</slf4j.version>
 		
 		<!-- logback -->
-		<logback.version>1.1.7</logback.version>
+		<logback.version>1.2.0</logback.version>
 		
 		<!-- servlet-api -->
 		<servlet.api.version>2.5</servlet.api.version>
