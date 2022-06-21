@@ -30,7 +30,7 @@
 		<codehaus.woodstox.version>4.4.1</codehaus.woodstox.version>
 		
 		<!-- MySQL-JDBC版本号 -->
-		<mysql.version>5.0.8</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		
 		<!-- Mybatis -->
 		<mybatis.version>3.4.2</mybatis.version>
