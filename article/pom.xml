@@ -25,7 +25,7 @@
 		<aspectj.version>1.8.10</aspectj.version>
 		
 		<!-- jackson-json -->
-		<jackson.json.version>2.7.4</jackson.json.version>
+		<jackson.json.version>2.13.4.1</jackson.json.version>
 		<fasterxml.jackson.version>2.7.4</fasterxml.jackson.version>
 		<codehaus.woodstox.version>4.4.1</codehaus.woodstox.version>
 		
